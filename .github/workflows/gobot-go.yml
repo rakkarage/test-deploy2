@@ -8,7 +8,7 @@ on:
         type: string
       environment:
         description: Pages Environment
-        default: 'github-pages'
+        # default: 'github-pages'
         type: environment
       delete-old-pages:
         description: Delete Old Pages
